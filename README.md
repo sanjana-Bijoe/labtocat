@@ -2,7 +2,7 @@
 
 # Hello there 👋🏽
 
-I'm a developer advocate and polyglot data engineer working with anything I can get my hands on. I am a FullStack Engineer/Data Analyst/Data Engineer and an aspiring Data Scientist. I love working with Data and diffirent algorithms, it is incredibly rewarding for me.
+I'm a developer advocate and polyglot data engineer working with anything I can get my hands on. I am a FullStack Engineer/Data Analyst/Data Engineer and an aspiring Data Scientist. I love working with Data and different algorithms, it is incredibly rewarding for me.
 
 - 👨🏽‍💻 I work 🏡  with [Autodesk](https://www.autodesk.in/).
 - 📍 Kottayam, [Kerala](https://en.wikipedia.org/wiki/Kerala) 🇮🇳
