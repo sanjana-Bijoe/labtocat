@@ -6,6 +6,6 @@ I'm a developer advocate and polyglot engineer working with anything I can get m
 
 - 👨🏽‍💻 I work 🏡  with [Autodesk](https://www.autodesk.in/).
 - 📍 Kottayam, [Kerala](https://en.wikipedia.org/wiki/Kerala) 🇮🇳
-- 🤓 Currently learning [deno](https://deno.land/).
+- 🤓 Currently learning [rust](https://www.rust-lang.org/).
 - 💬 Ask me anything related to data and 👨🏽‍💻.
 - 📬 Reach me on [linkedin](https://www.linkedin.com/in/sanjanabijoe/).
